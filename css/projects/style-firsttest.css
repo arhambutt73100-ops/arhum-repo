@@ -1,0 +1,88 @@
+/* body {
+  background: #1a1a1a;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  margin: 0; 
+}
+
+.card {
+  width: 700px;
+  height: 380px;
+  display: flex;
+  color: white;
+  background-color: aqua;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+ LEFT SECTION 
+.left {
+  flex: 1;
+  padding-right: 20px;
+}
+
+.left h2 {
+  margin: 0;
+  color: black;
+  font-size: 28px;
+}
+
+.left .job {
+  font-size: 16px;
+  color: #a8a8a8;
+  margin-bottom: 20px;
+}
+
+.info p {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: black;
+  margin-top: 12px;
+  font-size: 15px;
+}
+
+.info i {
+  font-size: 16px;
+  color: black;
+}
+
+ RIGHT SECTION 
+
+.top-right {
+  float: right;
+  display: flex;
+  flex-direction: row; 
+  align-items: center;
+  justify-content: space-evenly; 
+  padding: 100px;
+}
+
+.top-right {
+  width: 80px;
+  margin-bottom: 10px;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.top-right h3 {
+  color: black;
+  margin: 10px 0 0 0;
+  font-size: 18px;
+} */
+/* .header-part{
+   display: flex;
+   justify-content: center;
+   background-color: red;
+   color: yellowgreen;
+}
+ .menu-section{
+  text-transform: uppercase;
+
+ } */
